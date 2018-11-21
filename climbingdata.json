@@ -1,0 +1,39 @@
+{
+  “areaName”: “Flagstaff Mountain”,
+  “location”: “Boulder Colorado”,
+  “established”: 2000,
+  “numOfClimbs”: 279,
+  “bouldering”: true
+  “topClimbs”: [
+    {
+      "boulder": "Monkey Traverse",
+      "grade": "v4",
+      "rating": 3.5,
+      "visits": [
+        "3/29/18",
+        "4/12/18",
+        "4/14/18"
+      ]
+    },
+    {
+      "boulder": "Valhalla",
+      "grade": "v7",
+      "rating": 3,
+      "visits": [
+        "3/29/18",
+        "4/12/18",
+        "4/14/18"
+      ]
+    },
+    {
+      "boulder": "Big Overhang"
+      "grade": "v2",
+      "rating": 3.5,
+      "visits": [
+        "3/29/18",
+        "4/12/18",
+        "4/14/18"
+      ]
+    }
+  ]
+}
